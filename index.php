@@ -4,12 +4,12 @@
     print_r($angka[i]);
   }
 
-  $angka2 = [3,4,5,2,2,421,5,23,532,532,];
+  $angka2 = [3,4,5,2,2,421,5,23,532,532,673];
   foreach($angka3 as $ang){
     print_r($ang);
   }
 
-  $angka3 = [3,4,5,2,2,421,5,23,532,532,];
+  $angka3 = [3,4,5,2,2,421,5,23,532,532,123];
   foreach($angka3 as $ang){
     print_r($ang);
   }
