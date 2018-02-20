@@ -13,4 +13,11 @@
   foreach($angka3 as $ang){
     print_r($ang);
   }
+
+  $user = 'Adam';
+  if ($user = 'Adam'){
+    echo "Welcome";
+  } else {
+    echo "Mantog Bangsat!!!";
+  }
 ?>
